@@ -6,6 +6,6 @@ In this workshop we'll cover a step-by-step guide to build basic mobile app and 
 > App Inventor is a free, cloud-based service that allows you to make your own mobile apps using a blocks based programming language. You access App Inventor using a web browser (Chrome, Firefox, Safari)
 
 ## Requirements
-* Laptop with wifi access.
-* Celular or tablet with wifi access with MIT AI2 Companion by MIT Center mobile app installed to test the app in real time.
+* Laptop with wifi access by each team.
+* Celular or tablet with wifi access with MIT AI2 Companion by MIT Center mobile app installed to test the app in real time by each team too.
 * Have a email account ready to be used, required only one by team.
