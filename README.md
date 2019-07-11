@@ -27,4 +27,6 @@ The workshop will be separated in five sections:
    * Change the background to a photograph or picture.
    * Let the user draw dots as well as lines (hint: Use DrawCircle block).
    * Add a button that turns on the camera and lets the user take a picture and then doodle on it.
- 5. Final news about where to find more resources to build more complicated apps and the MIT App Inventor summit, so the students can search for more technical information and they can get exited to the idea about presenting their work in the related summit.
+ 5. Final news about where to find more resources to build more complicated apps and the MIT App Inventor summit, so the students can search for more technical information and they can get exited to the idea about presenting their work in the related summit. 
+
+**The workshop presentation can be found at [MyFirstMobileApp](https://docs.google.com/presentation/d/1v3tEwZS9ZerzxEbNKqx2LHbNdrCJkFOmGtoJ8hRZp-Q/edit?usp=sharing)**
