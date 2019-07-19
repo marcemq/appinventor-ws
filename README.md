@@ -23,7 +23,7 @@ The workshop will be separated in five sections:
 3. Step-by-step guide to build an extended colored digital doodle app based on this guide by [MIT App Inventor Tutorial #4](https://www.youtube.com/watch?v=fQKNzLYEN0M&feature=youtu.be)
 4. *App challengues*: the students will be challenged to extend the previos app so the digital doodle
    * Add a Wipe button to clear the screen.
-   * Add two extra color support, i.e.: red and black. 
+   * Add two extra color support, i.e.: red, green and black. 
    * Change the background to a photograph or picture.
    * Let the user draw dots as well as lines (hint: Use DrawCircle block).
    * Add a button that turns on the camera and lets the user take a picture and then doodle on it.
