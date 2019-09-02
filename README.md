@@ -30,3 +30,4 @@ The workshop will be separated in five sections:
  5. Final news about where to find more resources to build more complicated apps and the MIT App Inventor summit, so the students can search for more technical information and they can get exited to the idea about presenting their work in the related summit. 
 
 **The workshop presentation can be found at [MyFirstMobileApp](https://docs.google.com/presentation/d/1v3tEwZS9ZerzxEbNKqx2LHbNdrCJkFOmGtoJ8hRZp-Q/edit?usp=sharing)**
+[other](https://docs.google.com/presentation/d/1fTvKzPsLlMASwTMSUi4G13Zn3XInWKdrCm5_4a6EB-8/edit?usp=sharing) 
